@@ -1,0 +1,15 @@
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\bin\Debug\ClnParcial2Bss.dll.config
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\bin\Debug\ClnParcial2Bss.dll
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\bin\Debug\ClnParcial2Bss.pdb
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\bin\Debug\CadParcial2Bss.dll
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\bin\Debug\EntityFramework.dll
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\bin\Debug\EntityFramework.SqlServer.dll
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\bin\Debug\CadParcial2Bss.pdb
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\bin\Debug\CadParcial2Bss.dll.config
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\bin\Debug\EntityFramework.xml
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\bin\Debug\EntityFramework.SqlServer.xml
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\obj\Debug\ClnParcial2Bss.csproj.AssemblyReference.cache
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\obj\Debug\ClnParcial2Bss.csproj.CoreCompileInputs.cache
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\obj\Debug\ClnParci.6D89269E.Up2Date
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\obj\Debug\ClnParcial2Bss.dll
+D:\parcial2bss_sis457\Parcial2Bss\ClnParcial2Bss\obj\Debug\ClnParcial2Bss.pdb

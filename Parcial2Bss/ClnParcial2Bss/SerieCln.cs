@@ -29,6 +29,8 @@ namespace ClnParcial2Bss
                 existente.director = serie.director;
                 existente.episodios = serie.episodios;
                 existente.fechaEstreno = serie.fechaEstreno;
+                existente.urlPortada = serie.urlPortada;
+                existente.idiomaOriginal = serie.idiomaOriginal;
                 return context.SaveChanges();
             }
         }

@@ -1231,7 +1231,7 @@
 </value>
   </data>
   <metadata name="erpSinopsis.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>528, 17</value>
+    <value>507, 17</value>
   </metadata>
   <metadata name="erpTitulo.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>20, 16</value>
@@ -1241,5 +1241,11 @@
   </metadata>
   <metadata name="erpEpisodios.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>234, 16</value>
+  </metadata>
+  <metadata name="erpUrlPortada.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>614, 21</value>
+  </metadata>
+  <metadata name="erpIdiomaOriginal.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>743, 21</value>
   </metadata>
 </root>

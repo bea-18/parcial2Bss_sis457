@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\parcial2bss_sis457\\Parcial2Bss\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84B79C4D-49A1-4C4D-A63F-D32A2235401B}|ClnParcial2Bss\\ClnParcial2Bss.csproj|D:\\parcial2bss_sis457\\Parcial2Bss\\clnparcial2bss\\seriecln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B79C4D-49A1-4C4D-A63F-D32A2235401B}|ClnParcial2Bss\\ClnParcial2Bss.csproj|solutionrelative:clnparcial2bss\\seriecln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{44E4DE3A-46A0-4DFE-B3B6-A6E58F34BA22}|CpParcial2Bss\\CpParcial2Bss.csproj|D:\\parcial2bss_sis457\\Parcial2Bss\\cpparcial2bss\\frmserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44E4DE3A-46A0-4DFE-B3B6-A6E58F34BA22}|CpParcial2Bss\\CpParcial2Bss.csproj|solutionrelative:cpparcial2bss\\frmserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44E4DE3A-46A0-4DFE-B3B6-A6E58F34BA22}|CpParcial2Bss\\CpParcial2Bss.csproj|d:\\parcial2bss_sis457\\parcial2bss\\cpparcial2bss\\frmserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{44E4DE3A-46A0-4DFE-B3B6-A6E58F34BA22}|CpParcial2Bss\\CpParcial2Bss.csproj|solutionrelative:cpparcial2bss\\frmserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B79C4D-49A1-4C4D-A63F-D32A2235401B}|ClnParcial2Bss\\ClnParcial2Bss.csproj|D:\\parcial2bss_sis457\\Parcial2Bss\\clnparcial2bss\\seriecln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B79C4D-49A1-4C4D-A63F-D32A2235401B}|ClnParcial2Bss\\ClnParcial2Bss.csproj|solutionrelative:clnparcial2bss\\seriecln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SerieCln.cs",
               "DocumentMoniker": "D:\\parcial2bss_sis457\\Parcial2Bss\\ClnParcial2Bss\\SerieCln.cs",
               "RelativeDocumentMoniker": "ClnParcial2Bss\\SerieCln.cs",
               "ToolTip": "D:\\parcial2bss_sis457\\Parcial2Bss\\ClnParcial2Bss\\SerieCln.cs",
               "RelativeToolTip": "ClnParcial2Bss\\SerieCln.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAASwEMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T06:11:36.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FrmSerie.cs",
               "DocumentMoniker": "D:\\parcial2bss_sis457\\Parcial2Bss\\CpParcial2Bss\\FrmSerie.cs",
               "RelativeDocumentMoniker": "CpParcial2Bss\\FrmSerie.cs",
               "ToolTip": "D:\\parcial2bss_sis457\\Parcial2Bss\\CpParcial2Bss\\FrmSerie.cs",
               "RelativeToolTip": "CpParcial2Bss\\FrmSerie.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAAEMAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T04:45:30.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FrmSerie.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\parcial2bss_sis457\\Parcial2Bss\\CpParcial2Bss\\FrmSerie.cs",
               "RelativeDocumentMoniker": "CpParcial2Bss\\FrmSerie.cs",

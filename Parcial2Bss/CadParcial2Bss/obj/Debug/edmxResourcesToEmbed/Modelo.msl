@@ -10,6 +10,8 @@
           <ScalarProperty Name="director" ColumnName="director" />
           <ScalarProperty Name="episodios" ColumnName="episodios" />
           <ScalarProperty Name="fechaEstreno" ColumnName="fechaEstreno" />
+          <ScalarProperty Name="urlPortada" ColumnName="urlPortada" />
+          <ScalarProperty Name="idiomaOriginal" ColumnName="idiomaOriginal" />
           <ScalarProperty Name="estado" ColumnName="estado" />
         </MappingFragment>
       </EntityTypeMapping>
@@ -23,6 +25,8 @@
           <ScalarProperty Name="director" ColumnName="director" />
           <ScalarProperty Name="episodios" ColumnName="episodios" />
           <ScalarProperty Name="fechaEstreno" ColumnName="fechaEstreno" />
+          <ScalarProperty Name="urlPortada" ColumnName="urlPortada" />
+          <ScalarProperty Name="idiomaOriginal" ColumnName="idiomaOriginal" />
           <ScalarProperty Name="estado" ColumnName="estado" />
         </ComplexTypeMapping>
       </ResultMapping>

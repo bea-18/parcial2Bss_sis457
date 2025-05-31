@@ -47,6 +47,8 @@ namespace CpParcial2Bss
             txtDirector.Text = string.Empty;
             nudEpisodios.Value = 0;
             dtpFechaEstreno.Value = dtpFechaEstreno.MinDate;
+            txtUrlPortada.Text = string.Empty;
+            cbxIdiomaOriginal.SelectedIndex = -1;
         }
    
         private void btnCancelar_Click(object sender, EventArgs e)
@@ -75,6 +77,8 @@ namespace CpParcial2Bss
             txtDirector.Text = serie.director;
             nudEpisodios.Text = serie.episodios.ToString();
             dtpFechaEstreno.Value = serie.fechaEstreno;
+            txtUrlPortada.Text = serie.urlPortada;
+            cbxIdiomaOriginal.Text = serie.idiomaOriginal;
         }
         private void btnCerrar_Click(object sender, EventArgs e)
         {
@@ -99,6 +103,8 @@ namespace CpParcial2Bss
             erpDirector.SetError(txtDirector, "");
             erpEpisodios.SetError(nudEpisodios, "");
             erpFechaEstreno.SetError(dtpFechaEstreno, "");
+            erpUrlPortada.SetError(txtUrlPortada, "");
+            erpIdiomaOriginal.SetError(cbxIdiomaOriginal, "");
 
             if (string.IsNullOrEmpty(txtTitulo.Text))
             {
@@ -130,6 +136,16 @@ namespace CpParcial2Bss
                 esValido = false;
                 erpFechaEstreno.SetError(dtpFechaEstreno, "El campo Fecha de Estreno es obligatorio");
             }
+            if (string.IsNullOrEmpty(txtUrlPortada.Text))
+            {
+                esValido = false;
+                erpUrlPortada.SetError(txtUrlPortada, "El campo URL Portada es obligatorio");
+            }
+            if (string.IsNullOrEmpty(cbxIdiomaOriginal.Text))
+            {
+                esValido = false;
+                erpIdiomaOriginal.SetError(cbxIdiomaOriginal, "El campo Idioma Original es obligatorio");
+            }
             return esValido;
         }
 
@@ -143,6 +159,8 @@ namespace CpParcial2Bss
                 serie.director = txtDirector.Text.Trim();
                 serie.episodios = (int)nudEpisodios.Value;
                 serie.fechaEstreno = dtpFechaEstreno.Value;
+                serie.urlPortada = txtUrlPortada.Text.Trim();
+                serie.idiomaOriginal = cbxIdiomaOriginal.Text.Trim();
 
                 if (esNuevo)
                 {

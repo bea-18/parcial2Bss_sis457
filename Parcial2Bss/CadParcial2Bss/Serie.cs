@@ -20,6 +20,8 @@ namespace CadParcial2Bss
         public string director { get; set; }
         public long episodios { get; set; }
         public System.DateTime fechaEstreno { get; set; }
+        public string urlPortada { get; set; }
+        public string idiomaOriginal { get; set; }
         public short estado { get; set; }
     }
 }

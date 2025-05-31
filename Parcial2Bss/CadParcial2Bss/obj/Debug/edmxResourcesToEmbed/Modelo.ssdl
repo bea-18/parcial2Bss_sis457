@@ -10,6 +10,8 @@
     <Property Name="director" Type="varchar" MaxLength="100" Nullable="false" />
     <Property Name="episodios" Type="bigint" Nullable="false" />
     <Property Name="fechaEstreno" Type="datetime" Nullable="false" />
+    <Property Name="urlPortada" Type="varchar" MaxLength="500" />
+    <Property Name="idiomaOriginal" Type="varchar" MaxLength="100" />
     <Property Name="estado" Type="smallint" Nullable="false" />
   </EntityType>
   <Function Name="paSerieListar" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
